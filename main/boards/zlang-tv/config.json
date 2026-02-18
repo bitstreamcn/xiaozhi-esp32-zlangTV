@@ -1,0 +1,10 @@
+{
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "zlang-tv",
+            "description": "浪子电视遥控器",
+            "sdkconfig_append": []
+        }
+    ]
+}
